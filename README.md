@@ -1,4 +1,4 @@
-# unity-panini-camera-utils
+# Unity panini projection camera utils
 
 Fixes ScreenPointToRay method when using Panini post process.
 
